@@ -22,7 +22,7 @@ const ExerciseList = () => {
   }, [data]);
   return (
     <div>
-      <h1 style={{ marginBottom: "1rem" }}>Exercise List</h1>
+      <h1 style={{ marginBottom: "1rem" }}>Yada Yada Exercise List</h1>
       <SelectUser filter={filter} setFilter={setFilter} />
       <table className="table table-striped table-dark">
         <thead>
