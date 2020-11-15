@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "roboto";
+}
+
+h1 {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+form {
+  margin-top: 2rem;
+}
+
+form button {
+  margin-top: 1.5rem;
+}
+
+.spacing {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+table {
+  text-align: center;
+}
